@@ -39,6 +39,10 @@
     "paper-search": "Collaborne/paper-search#1.4.0",
     "paper-listbox": "PolymerElements/paper-listbox#2.0.0",
     "web-animations-js": "web-animations/web-animations-js#2.2.5",
-    "paper-avatar": "Abe90/paper-avatar#1.0.3"
+    "paper-avatar": "Abe90/paper-avatar#1.0.3",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#1.0.0"
+  },
+  "resolutions": {
+    "webcomponentsjs": "1.0.0"
   }
 }
