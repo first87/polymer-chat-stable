@@ -2,9 +2,6 @@
   "name": "polymer-chat",
   "description": "Polymer Chat Demo",
   "main": "",
-  "authors": [
-    "first87 <hotfly9@gmail.com>"
-  ],
   "license": "MIT",
   "private": true,
   "ignore": [
